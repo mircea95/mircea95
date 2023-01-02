@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Terraform and DevOps Tools**
 
-- 👨‍💻 All of my projects are available at <a href="mirceabularga.com" target="_blank" rel="noopener noreferrer">mirceabularga.com</a>
+- 👨‍💻 All of my projects are available at <a href="http://mirceabularga.com" target="_blank" rel="noopener noreferrer">mirceabularga.com</a>
 
 - 📫 How to reach me **mircea.bularga@gmail.com**
 
